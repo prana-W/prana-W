@@ -1,5 +1,5 @@
 # About Me:
-👋 Hi, I'm Pranaw Kumar aka W!<br>🎓 Engineering student at NIT JSR'28<br>💻 Member of the official Web Team of National Institute of Technology, Jamshedpur<br>🚀 Web Developer at Team Innoreva– the best technical club out there in NIT JSR! <br>🌐 Currently focused on Frontend Development<br>📈 Actively building and contributing to multiple projects<br>🎯 Aspiring to become a Full-Stack Web Developer by the end of this year<br>
+👋 Hi, I'm Pranaw Kumar aka W!<br>🎓 Engineering student at NIT JSR'28<br>💻 Member of the official Web Team of National Institute of Technology, Jamshedpur<br>🚀 Web Developer at Team Innoreva– the best technical club out there in NIT JSR! <br>🌐 Currently focused on Backend Development<br>📈 Actively building and contributing to multiple projects<br>🎯 Aspiring to become a Full-Stack Web Developer by the end of this year<br>
 
 
 ## 🌐 Socials:
