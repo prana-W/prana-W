@@ -33,7 +33,7 @@
 
 ### 💻 Languages
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp,c" />
 </a>
 
 ### 🧱 Libraries & Frameworks
@@ -53,7 +53,7 @@
 
 ### 🧰 Tools & IDEs
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,webstorm,docker" />
+  <img src="https://skillicons.dev/icons?i=docker,postman,git,github,vscode,webstorm,clion" />
 </a>
 
 ### 🌐 Markup & Core Stack
@@ -72,9 +72,8 @@
 
 # Github stats
 <div align="center">
-  <img src="profile-summary-card-output/nord_dark/0-profile-details.svg" alt="me" width="685px">
   <img src="profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="me" width="">
-  <img src="profile-summary-card-output/nord_dark/3-stats.svg" alt="me" width="">
+  <img src="profile-summary-card-output/nord_dark/2-most-commit-language.svg" alt="me" width="">
   <img src="profile-summary-card-output/nord_dark/4-productive-time.svg" alt="me" width="">
 </div>
 <br/>
