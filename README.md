@@ -1,16 +1,89 @@
-# 💫 About Me:
-👋 I'm Pranaw Kumar, a sophomore at National Institute of Technology, Jamshedpur passionate about full-stack development, competitive programming, and building web apps.<br>🌐 I'm also the Campus Ambassador for GSSoC'25, and a Full-Stack Web Developer in both the official Web Team and Team Innoreva at NIT Jamshedpur.<br>🚀 Currently working on ThisApp, a full-stack real-time communication platform using MERN Stack and Socket.io.<br>🛠️ Intermediate in React, Node.js, MongoDB, Express, and exploring the depths of Next.js.<br>⚡ I love shipping projects, breaking things to learn, and solving problems with code.<br>💻 Also active in Competitive Programming on Codeforces & CodeChef (C++).<br>📬 Reach me at pranaw.kr.dev@gmail.com or check out my [Twitter](https://x.com/prana_w_)
+<!-- ================ HEADER ================ -->
+# Hey, I'm Pranaw Kumar! 👋 
 
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="me" width="700px">
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pranaw-kumar-710331215/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/prana_w_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pranaw.kr.dev@gmail.com) 
+<br/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;NIT+Jamshedpur" alt="Typing SVG" />
+</div>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=prana-W&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=prana-W&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prana-W&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/pranaw-kumar-710331215"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/prana_W_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="mailto:pranaw.kr.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=prana-W&icon=3&color=0)](https://visitcount.itsvg.in)
+
+## 🌟 About Me
+
+- 🎓 **EE Undergrad** @ NIT Jamshedpur (Batch of ’28)
+- 🤖 Currently diving deep into **Backend Engineering** and **Competitive Programming**
+- 💡 Passionate about building efficient and scalable **web applications**, exploring intelligent **AI integrations**, and excelling in **algorithmic problem solving & system design**
+- 📬 Reach me at: **pranaw.kr.dev@gmail.com**
+
+
+---
+## 🚀 Technologies I've Worked With
+
+<div align="center">
+
+### 💻 Languages
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,cpp" />
+</a>
+
+### 🧱 Libraries & Frameworks
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,express,nodejs" />
+</a>
+
+### 🗄️ Databases & ORMs
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mongo,redis" />
+</a>
+
+### ☁️ Cloud & DevOps
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vercel" />
+</a>
+
+### 🧰 Tools & IDEs
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,webstorm,docker" />
+</a>
+
+### 🌐 Markup & Core Stack
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</a>
+
+### 🖥️ OS & Shell
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=windows,ubuntu" />
+</a>
+
+</div>
+
+<br/>
+
+# Github stats
+<div align="center">
+  <img src="profile-summary-card-output/nord_dark/0-profile-details.svg" alt="me" width="685px">
+  <img src="profile-summary-card-output/nord_dark/1-repos-per-language.svg" alt="me" width="">
+  <img src="profile-summary-card-output/nord_dark/3-stats.svg" alt="me" width="">
+  <img src="profile-summary-card-output/nord_dark/4-productive-time.svg" alt="me" width="">
+</div>
+<br/>
+
+
+<div align="center">
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=prana-w&style=for-the-badge&base=120">
+</a>
+</div>
+
+> "do or do!" 
