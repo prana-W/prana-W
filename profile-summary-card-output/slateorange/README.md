@@ -32,13 +32,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/prana-W/prana-W/main/profile-summary-card-output/slateorange/4-productive-time.svg)
-```
-
-    
