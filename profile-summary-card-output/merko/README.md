@@ -32,3 +32,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/prana-W/prana-W/main/profile-summary-card-output/merko/4-productive-time.svg)
+```
+
+    
